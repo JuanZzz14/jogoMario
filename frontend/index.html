@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Jogo Mario</title>
+    <link rel="stylesheet" href="/src/style.css" />
+  </head>
+  <body>
+    <div id="app">
+      <header class="hud">
+        <div class="hud-item">🍄 Vidas: <span id="lives">3</span></div>
+        <div class="hud-item">⭐ Moedas: <span id="coins">0</span></div>
+        <div class="hud-item">🏁 Fase: <span id="level">1</span></div>
+      </header>
+
+      <canvas id="game" width="800" height="450"></canvas>
+
+      <div id="overlay" class="overlay hidden">
+        <h1 id="overlay-title">Jogo Mario</h1>
+        <p id="overlay-text">Use as setas ou A/D para mover e Espaço/W para pular.</p>
+        <button id="overlay-btn">Começar</button>
+      </div>
+
+      <footer class="controls">
+        ← → mover • ↑ / Espaço pular • R reiniciar fase
+      </footer>
+    </div>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
