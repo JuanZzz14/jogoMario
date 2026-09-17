@@ -49,12 +49,12 @@ npm run preview
 
 ## Como jogar
 
-| Tecla | Ação |
-|---|---|
-| ← / A | Mover para a esquerda |
-| → / D | Mover para a direita |
-| ↑ / W / Espaço | Pular |
-| R | Reiniciar a fase atual |
+| Tecla          | Ação                   |
+| -------------- | ---------------------- |
+| ← / A          | Mover para a esquerda  |
+| → / D          | Mover para a direita   |
+| ↑ / W / Espaço | Pular                  |
+| R              | Reiniciar a fase atual |
 
 Pise sobre os inimigos para eliminá-los, colete as moedas pelo caminho e alcance a bandeira para vencer a fase.
 
@@ -93,13 +93,12 @@ dev (commits de desenvolvimento) → merge → main
 
 ## Integrantes
 
-| Nome | Matrícula | Papel |
-|----------------|-----------|---------------|
-| [Nome do aluno] | [Matrícula] | Scrum Master |
-| [Nome do aluno] | [Matrícula] | Documentador |
-| [Nome do aluno] | [Matrícula] | Desenvolvedor |
-| [Nome do aluno] | [Matrícula] | Desenvolvedor |
-| [Nome do aluno] | [Matrícula] | Testador |
+| Nome                              | Matrícula | Papel                   |
+| --------------------------------- | --------: | ----------------------- |
+| Juan Victor Bezerra do Nascimento |  01822560 | Scrum Master            |
+| Lucas Paes Barreto Lacet          |  01809638 | Desenvolvedor           |
+| Victor Daniel Bezerra da Silva    |  01821043 | Desenvolvedor           |
+| Rafael Sales da Mata              |  01780786 | Testador e Documentador |
 
 > Atualize esta tabela com os nomes, matrículas e papéis reais dos integrantes do grupo.
 
