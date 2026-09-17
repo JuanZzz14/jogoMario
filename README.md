@@ -100,8 +100,6 @@ dev (commits de desenvolvimento) → merge → main
 | Victor Daniel Bezerra da Silva    |  01821043 | Desenvolvedor           |
 | Rafael Sales da Mata              |  01780786 | Testador e Documentador |
 
-> Atualize esta tabela com os nomes, matrículas e papéis reais dos integrantes do grupo.
-
 ## Licença
 
 Este projeto está licenciado sob a licença MIT — consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
